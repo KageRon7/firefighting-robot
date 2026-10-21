@@ -1,8 +1,10 @@
 # Autonomous Fire-Fighting Robot (RB 2026)
 
 Arduino-based autonomous robot that navigates a maze of rooms, detects an open
-flame and extinguishes it with a fan. Built for the Robotics course during an
-Erasmus exchange in Portugal.
+flame and extinguishes it with a fan. Built with an international student team
+for the Robotics course during an Erasmus exchange in Portugal.
+
+<p align="center"><img src="docs/robot.jpg" alt="The fire-fighting robot: red two-wheel chassis with three ultrasonic sensors, an IR camera, an OLED display and a fan on top" width="420"></p>
 
 ## How it works
 
